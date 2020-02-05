@@ -1,0 +1,11 @@
+Making alias for the command in ubantu:
+
+1. Create a folder in any location
+    eg: .new_alias_cmd
+2  Make alias for commad like :
+    alias dt='cd Desktop'
+    and save the file
+3. Go to .bashrc hidden file from home 
+4. put .new_alias_cmd file name as:
+    source ~/.new_alias_cmd
+5. Go to command shell and run dt command you will appear in the desktop 
