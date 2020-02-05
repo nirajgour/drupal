@@ -1,4 +1,4 @@
-Making alias for the command in ubantu:
+<h1>Making alias for the command in ubantu:</h1>
 
 1. Create a folder in any location
     eg: .new_alias_cmd
